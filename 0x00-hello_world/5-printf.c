@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
  * main -A programm that a line using the printf function
-*n 
+ *
+ *
  * Return:0 (Success)
  */
 int main(void)
