@@ -3,7 +3,7 @@
 
 
 /**
- * main - Entry point of the code 
+ * main - Entry point of the code
  *
  * Return: Always 0
  */
