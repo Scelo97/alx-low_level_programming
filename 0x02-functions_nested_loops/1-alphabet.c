@@ -5,13 +5,14 @@
  * Return: vold
  */
 
-vold print_alphabet(vold)
-
+void print_alphabet(void)
 {
 	char c;
 
-	for (c = 'o'; c <= '2'; c++);
+	for ( c = 'a'; c <= 'z'; c++)
+	{
 
-	       _putchar(c);	
-               _putchar('\n');
+	     _putchar(c);
+	}	      
+               _putchar ( '\n' );
 }
