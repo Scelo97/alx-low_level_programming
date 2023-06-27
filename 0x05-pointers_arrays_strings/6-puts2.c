@@ -21,7 +21,7 @@ void puts2(char *str)
 
 	}
 	t = longi - 1;
-	for (o = 0 ; O <= t ; O++)
+	for (O = 0 ; O <= t ; O++)
 	{
 
 			if (O % 2 == 0)
