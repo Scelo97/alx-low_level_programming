@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _stccat - concatenates two strings
  * @dest: input valvue
