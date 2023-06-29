@@ -2,9 +2,9 @@
 
 /**
  * _stccat - concatenates two strings
- * @dest: input valvue
- * @src: input valvue
- * @src: input valvue
+ * @dest: input value
+ * @src: input value
+ * @src: input value
  * Return: void
  */
 
